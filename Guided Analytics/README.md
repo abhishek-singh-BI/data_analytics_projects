@@ -40,7 +40,9 @@ Guided Analytics
 
 6. Use of map chart to preserve space for region and state level drill downs.
 
-7. Minimal use of color for a clean and professional look.
+7. A hamburger menu for filters.
+
+8. Minimal use of color for a clean and professional look.
 
 Link to solution : https://public.tableau.com/app/profile/abhishek6922/viz/InteractiveDashboardDesign_16054640122000/SalesSummaryDashboard
 
