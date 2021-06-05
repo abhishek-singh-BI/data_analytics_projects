@@ -3,7 +3,7 @@
 
 **Tableau**
 
-- Tableau is cutting edge Business Intelligence software used to solve business problems. It enables users to connect to a wide variety of data sources.
+- Tableau desktop is cutting edge Business Intelligence software used to solve business problems. It enables users to connect to a wide variety of data sources.
 
 - Tableau makes it easy for a non technical user to create dashboards from scratch without the need for writing a single line of code. The intuitive UI makes it user friendly and is a top choice self service tool.
 
