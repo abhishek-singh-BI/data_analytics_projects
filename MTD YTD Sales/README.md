@@ -13,7 +13,7 @@ MTD YTD Sales Dashboard
 
 
 1. What are the KPIs and how they fare as compared to previous months?
-2. What is the performance of branch banking hierarchy in contrast to actual vs expected sales.
+2. What is the performance of branch banking hierarchy in contrast to actual vs expected sales (dubbed in this example as current sales vs previous month sales).
 3. What are the contribution of organisation level categories?
 4. What is the month on month Trend?
 
