@@ -45,6 +45,5 @@ MTD YTD Sales Dashboard
 
 Link to solution : https://public.tableau.com/app/profile/abhishek6922/viz/SuperstoreSummary_15823590144180/SuperstoreSummary
 
-**Note : Global superstore data used and parallels were drawn in order to represent different slices of banking requirements.
-
+**Note : Global superstore data used and parallels were drawn in order to represent different slices of banking requirements. Logo and data as of refresh date is also added in industry level professional dashboards.
 
