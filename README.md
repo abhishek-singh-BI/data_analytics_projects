@@ -12,3 +12,7 @@
 - To create highly intuitive, engaging dashboards.
 - To automate excel dashboards.
 - Solving  business problems by laying them out in a series of visual charts. The charts enable users to specific answers intuitively.
+
+**Link to Profile**
+
+https://public.tableau.com/profile/abhishek6922#!/
