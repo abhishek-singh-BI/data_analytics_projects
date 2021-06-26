@@ -62,6 +62,6 @@ The purpose would be to recognise products that are not profitable and are decli
 
 4. Identifying the calculations that are taking time to compute and simplifying them to improve performance.
 
-**Note: A complementary Returns Dashboard is also added in the solution. The data is yet to be tested as of now. The purpose of the dashboard was to visualise a few challenges of inspire section and to showcase different visualisations that can be used for each case. Colors are deliberately reversed to show more cost associated with returns.
+Link to solution: https://public.tableau.com/app/profile/abhishek6922/viz/ProductWiseSalesDashboard/ProductWiseSales
 
 Data sets that can be complemented with this: Global Superstore.
